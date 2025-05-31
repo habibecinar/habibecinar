@@ -31,10 +31,11 @@ I'm a graduate of Web Design and Coding. I started my journey with frontend deve
 ---
 
 ### 🚀 Highlighted Projects
+- 🌿 **GreenHarvest** – A sustainable agriculture-themed web project developed with **JavaScript**  
+👉 [View on GitHub](https://github.com/habibecinar/greenharvest)
 
-- 🎬 **Cinemania** – A movie app built with React, featuring API integration, filtering, personal library, and "movie of the day"  
-- 🛒 **Shopping Cart** – A simple e-commerce interface with add/remove functionality and total calculation  
-- 🧠 **Mini Quiz App** – A JavaScript-based quiz with multiple-choice questions  
+- 🎬 **Cinemania** – A movie app built with React, featuring API integration, filtering, personal library, and "movie of the day"
+- 👉 [View on GitHub](https://github.com/habibecinar/CINEMANIA-JS-TEAM-D-PROJECT/Cinemania-JS-Team-D)
 
 ---
 
@@ -52,7 +53,7 @@ I'm a graduate of Web Design and Coding. I started my journey with frontend deve
 ### 📫 Contact Me
 
 - 📧 Email: [habibecinar07@gmail.com] 
-- 💼 LinkedIn: [[linkedin.com/in/habibecinar](https://www.linkedin.com/in/habibecinar/)]([https://www.linkedin.com/in/habibecinar](https://www.linkedin.com/in/habibecinar/)) 
+- 💼 LinkedIn: [[linkedin.com/in/habibecinar]
 
 ---
 
