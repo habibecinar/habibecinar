@@ -53,7 +53,7 @@ I'm a graduate of Web Design and Coding. I started my journey with frontend deve
 ### 📫 Contact Me
 
 - 📧 Email: [habibecinar07@gmail.com] 
-- 💼 LinkedIn: [linkedin.com/in/habibecinar]
+- 💼 LinkedIn: [linkedin.com/in/habibecinar](https://www.linkedin.com/in/habibecinar)
 
 ---
 
