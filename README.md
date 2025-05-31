@@ -47,25 +47,12 @@ I'm a graduate of Web Design and Coding. I started my journey with frontend deve
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibecinar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=habibecinar&theme=radical" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=habibecinar&theme=radical" alt="GitHub Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habibecinar&color=blueviolet" alt="Profile Views" />
-</p>
-
 ---
 
 ### 📫 Contact Me
 
-- 📧 Email: [habibe.cinar@example.com] *(You can update this with your real email address if you'd like.)*  
-- 💼 LinkedIn: [linkedin.com/in/habibecinar](https://www.linkedin.com/in/habibecinar) *(Add your LinkedIn if available.)*
+- 📧 Email: [habibecinar07@gmail.com] 
+- 💼 LinkedIn: [linkedin.com/in/habibecinar]([https://www.linkedin.com/in/habibecinar](https://www.linkedin.com/in/habibecinar/)) 
 
 ---
 
