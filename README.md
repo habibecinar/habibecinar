@@ -23,10 +23,9 @@ I'm a graduate of Web Design and Coding. I started my journey with frontend deve
 - Git & GitHub
 
 #### Backend
-- Node.js, Express.js
-- MongoDB (basic level)
-- RESTful APIs
-- Data handling & backend logic
+-  Proficient with React, modern JS, and responsive design
+- Exploring backend technologies: Node.js, Express.js, MongoDB, RESTful APIs
+- Working on mini-projects with Laravel & CRUD APIs
 
 ---
 
