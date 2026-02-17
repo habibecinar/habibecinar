@@ -1,59 +1,117 @@
-## 👋 Hi there! I'm Habibe
+# Habibe Çınar  
+## Full-Stack Developer | React • Node.js • REST APIs
 
-I'm a graduate of Web Design and Coding. I started my journey with frontend development and now I’m diving deeper into the backend world. My goal is to become a full-stack developer who can build both user-friendly interfaces and robust backend systems. 🚀
+Full-stack developer focused on building scalable, maintainable, and user-centered web applications.  
+Experienced in designing modern frontend architectures and developing robust backend systems with clean API structures.
 
----
-
-### 💻 What I'm Working On
-
-- 🎓 Completed my degree in Web Design and Coding  
-- ⚛️ Building dynamic user interfaces with React  
-- 🌐 Proficient in HTML, CSS, and modern JavaScript  
-- 🛠️ Learning backend development with Node.js, Express.js, and MongoDB  
-- 👥 Gaining real-world experience by working on group projects  
+I build complete products — from responsive UI to secure backend logic.
 
 ---
 
-### 🧰 Technologies I Use
+## Core Expertise
 
-#### Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, JSX
-- Responsive Design, Flexbox, CSS Grid
-- Git & GitHub
-
-#### Backend
--  Proficient with React, modern JS, and responsive design
-- Exploring backend technologies: Node.js, Express.js, MongoDB, RESTful APIs
-- Working on mini-projects with Laravel & CRUD APIs
+- Frontend architecture with React  
+- RESTful API design & integration  
+- Authentication & CRUD systems  
+- State management & form validation  
+- Database modeling with MongoDB  
+- Scalable backend structure with Express  
 
 ---
 
-### 🚀 Highlighted Projects
-- 🌿 **GreenHarvest** – A sustainable agriculture-themed web project developed with **JavaScript**  
-👉 [View on GitHub](https://github.com/GreenHarvest-Project/GreennHarvest)
+## Tech Stack
 
-- 🎬 **Cinemania** – A movie app built with React, featuring API integration, filtering, personal library, and "movie of the day"
-- 👉 [View on GitHub](https://github.com/CINEMANIA-JS-TEAM-D-PROJECT/Cinemania-JS-Team-D))
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React  
+- Chart.js  
+- Responsive Design (Flexbox, Grid)  
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibecinar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibecinar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
----
-
-### 📫 Contact Me
-
-- 📧 Email: [habibecinar07@gmail.com] 
-- 💼 LinkedIn: [linkedin.com/in/habibecinar](https://www.linkedin.com/in/habibecinar)
+### Backend
+- Node.js  
+- Express.js  
+- MongoDB  
+- Mongoose  
+- REST APIs  
+- Middleware & CORS  
 
 ---
 
-✨ Always learning, always building. Thanks for stopping by!
+## Additional Experience
+
+- C#  
+- ASP.NET MVC  
+- MySQL  
+- Git  
+- Team Leader
+- Scrum Master
+
+---
+
+## Selected Projects
+
+### Cinemania  
+Movie discovery application integrated with an external API.  
+
+Role: Team Lead  
+
+- Led a cross-functional development team  
+- Coordinated task distribution and code integration  
+- Oversaw project structure and delivery timeline  
+- Dynamic search & filtering  
+- Favorites management (localStorage)  
+- Theme toggle  
+- Accessible modal system  
+
+GitHub:  
+https://github.com/CINEMANIA-JS-TEAM-D-PROJECT/Cinemania-JS-Team-D  
+
+---
+
+### MoneyGuard  
+Finance management system with authentication and data visualization.  
+
+- Login / Register system  
+- Transaction CRUD operations  
+- Monthly analytics & charts  
+- Exchange rate integration  
+
+GitHub:  
+https://github.com/Project-Kodexa/MoneyGuard  
+
+---
+
+### GreenHarvest  
+Sustainability-focused web project built with JavaScript.  
+
+Role: Scrum Master  
+
+- Facilitated sprint planning, daily stand-ups, and retrospectives  
+- Ensured Agile workflow and sprint goal alignment  
+- Coordinated communication between team members  
+- Monitored task progress and delivery consistency  
+
+GitHub:  
+https://github.com/GreenHarvest-Project/GreennHarvest  
+
+---
+
+## Professional Focus
+
+- Scalable backend architecture  
+- API security & authorization strategies  
+- Performance optimization  
+- Clean, maintainable code practices  
+
+---
+
+## Contact
+
+Email: habibecinar07@icloud.com  
+LinkedIn: https://linkedin.com/in/habibecinar  
+
+---
+
+Open to global remote opportunities and collaborative projects.
